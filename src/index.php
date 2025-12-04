@@ -17,7 +17,7 @@
 
  *******************************/
 
-	print "<h1>Hello DevOps!</h1>";
+	print "<h1>Hello DevOps - Ez mar a felhoben fut!</h1>";
 	print "<p>Ez az alkalmazás PHP-ban fut egy Docker konténerben.</p>";
 	print "<p>Szerver idő: ".date("Y-m-d H:i:s")."</p>";
 
